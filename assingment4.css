@@ -1,0 +1,25 @@
+.card{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    
+    
+    }
+    
+    #a{
+        font-size: 25px;
+        color:red;
+        background-color: black;
+    
+    }
+    #b{
+        font-size: 20px; 
+        color:blue;
+    }
+    #c{
+        font-size: 25px;
+        color:green;
+    }
+    .aside{
+        align-items: center;
+    }
